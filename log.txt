@@ -1,0 +1,13 @@
+commit 77377fbc1ddd530f24ef21ed70a03110b3d24e70
+Author: Magevo <jackson.scown@icloud.com>
+Date:   Sat Sep 16 02:37:30 2023 +1000
+
+    Created a python code that reads the climate.csv file and creates a figure for the data in co2_temp_2.png
+
+commit 20b29d07732209d8ff6c352ba54c7c2bd7814440
+Author: Magevo <jackson.scown@icloud.com>
+Date:   Sat Sep 16 02:12:11 2023 +1000
+
+    Created Python 3 code that loads the data from the climate.db and updated it into the figure co2_temp_1.
+
+
